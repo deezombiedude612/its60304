@@ -9,5 +9,5 @@ Created using the C Programming language, this console application aims to carry
 + display daily transaction
 
 ### Team Members
-Vi Lynn Tan
-Henry (Hian Wee) Heng
++ Vi Lynn Tan
++ Henry (Hian Wee) Heng
