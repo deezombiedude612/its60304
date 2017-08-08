@@ -1,0 +1,5 @@
+9780273776840:C How to Program:95.90:30:0
+9780131193710:The C Programming Language:102.90:20:30
+9780470108543:Programming fo Dummies:60.20:25:50
+9781118380932:Hacking for Dummies:50.90:78:0
+9781939457318:The 20/20 Diet:80.90:73:10
